@@ -1,0 +1,619 @@
+[
+    {
+        "title": "Unknown",
+        "ingredients": {
+            "cheese": "unknown amount",
+            "flesh of capons or hens": "unknown amount",
+            "milk of almonds": "unknown amount",
+            "broth of fresh beef or fresh flesh": "unknown amount",
+            "flour of rye": "unknown amount",
+            "gastbon or amydon": "unknown amount",
+            "yolk of eggs": "unknown amount",
+            "saffron": "for coloring",
+            "cloves of gilofre": "unknown amount",
+            "powder of galyugale": "unknown amount"
+        },
+        "instructions": [
+            "Take the cheese and flesh of capons, or of hens and chop small and grind small in a mortar.",
+            "Take milk of almonds with the broth of fresh beef. or fresh flesh, and put the flesh in the milk or in the broth and set them to the fire.",
+            "Mix them with flour of rye, or gastbon, or amydon as much as you want.",
+            "Add yolks of eggs and saffron to make it yellow.",
+            "When it is dressed in dishes as you desire, stick above cloves of gilofre.",
+            "Sprinkle powder of galyugale above, and serve it forth."
+        ]
+    },
+    {
+        "title": "GRONDEN BENES",
+        "ingredients": {
+            "benes": "unknown",
+            "good broth": "unknown",
+            "Bacon": "unknown"
+        },
+        "instructions": [
+            "Take benes and dry them in an Ovene and hull them well.",
+            "Wayshe them clean and do them to seethe in good broth.",
+            "Ete them with Bacon."
+        ]
+    },
+    {
+        "title": "FOR TO MAKE DRAWEN BENES",
+        "ingredients": {
+            "benes": "unknown amount",
+            "good broth": "unknown amount",
+            "Onions": "unknown amount, great minced",
+            "Saffron": "unknown amount, for color"
+        },
+        "instructions": [
+            "Take benes and see\u00fe hem and grynde hem in a morter.",
+            "Drawe hem up with good broth.",
+            "Put great minced onions in the broth.",
+            "Color it with Saffron.",
+            "Serve it forth."
+        ]
+    },
+    {
+        "title": "TO MAKE GREWEL FORCED",
+        "ingredients": {
+            "Grewel": "unknown",
+            "Good flesh": "unknown",
+            "Lire of Pork": "unknown",
+            "Safroun": "unknown"
+        },
+        "instructions": [
+            "Take grewel and do to the fyre with gode flessh and see\u00fe it wel.",
+            "Take the lire of Pork and grynd it smal and drawe the grewel thurgh a Straynour and colour it wi\u00fe Safroun and serue forth."
+        ]
+    },
+    {
+        "title": "Caboches In Potage",
+        "ingredients": {
+            "Caboches": "unknown",
+            "Good broth": "unknown",
+            "Oynouns": "unknown",
+            "The white of Lekes": "unknown",
+            "Safroun": "unknown",
+            "Salt": "unknown",
+            "Powdour douce": "unknown"
+        },
+        "instructions": [
+            "Take Caboches and quarter them.",
+            "Seeth them in good broth.",
+            "Add minced Oynouns and the white of Lekes, slit and cored small.",
+            "Add Safroun and Salt.",
+            "Force it with powdour douce."
+        ]
+    },
+    {
+        "title": "Rapes In Potage",
+        "ingredients": {
+            "Rapus": "unknown",
+            "Good broth": "unknown",
+            "Onions": "unknown",
+            "Saffron": "unknown",
+            "Salt": "unknown",
+            "Powder douce": "unknown",
+            "Pasturnakes": "unknown",
+            "Skyrwates": "unknown"
+        },
+        "instructions": [
+            "Take rapus and make them clean and wash them clean.",
+            "Quarter them and parboil them.",
+            "Take them up, cast them in a good broth and seethe them.",
+            "Mince Onions and cast to Saffron and salt.",
+            "Serve it with powder douce.",
+            "The wise make of Pasturnakes and skyrwates."
+        ]
+    },
+    {
+        "title": "EOWTES OF FLESSH",
+        "ingredients": {
+            "Borage": "unknown",
+            "cool [2]": "unknown",
+            "langdebef [3]": "unknown",
+            "persel [4]": "unknown",
+            "betes": "unknown",
+            "orage [5]": "unknown",
+            "auance [6]": "unknown",
+            "violet [7]": "unknown",
+            "saueray [8]": "unknown",
+            "fenkel [9]": "unknown",
+            "gode broth": "unknown"
+        },
+        "instructions": [
+            "Take Borage, cool, langdebef, persel, betes, orage, auance, violet, saueray, and fenkel.",
+            "Once they are sode, press them well small.",
+            "Cast them in gode broth and see\u00fe them.",
+            "Serve them forth."
+        ]
+    },
+    {
+        "title": "HEBOLACE",
+        "ingredients": {
+            "Oynouns": "unknown",
+            "erbes": "unknown",
+            "gode broth": "unknown"
+        },
+        "instructions": [
+            "Take Oynouns and erbes and hewe hem small",
+            "Add to gode broth",
+            "Aray it as \u00feou didest caboches."
+        ]
+    },
+    {
+        "title": "EOWTES OF FLESSH",
+        "ingredients": {
+            "Borage": "unknown amount",
+            "cool(Colewort)": "unknown amount",
+            "langdebef(Bugloss)": "unknown amount",
+            "persel(Parsley)": "unknown amount",
+            "betes": "unknown amount",
+            "orage(Orach)": "unknown amount",
+            "auance(Avens)": "unknown amount",
+            "violet(unknown part)": "unknown amount",
+            "saueray(Savory)": "unknown amount",
+            "fenkel(Fennel)": "unknown amount",
+            "gode broth": "unknown amount"
+        },
+        "instructions": [
+            "Take Borage, Colewort, Bugloss, Parsley, Betes, Orach, Avens, Violet, Savory, and Fennel.",
+            "Once they are boiled, press them well small.",
+            "Cast them in a good broth and seethe them.",
+            "Serve them forth."
+        ]
+    },
+    {
+        "title": "HEBOLACE",
+        "ingredients": {
+            "Oynouns": "unknown",
+            "erbes": "unknown",
+            "gode broth": "unknown",
+            "water": "unknown",
+            "oyle": "unknown",
+            "zolkes of Eyren": "unknown",
+            "powdour douce": "unknown"
+        },
+        "instructions": [
+            "Take Oynouns and erbes and hewe hem small and do \u00fees to gode broth.",
+            "aray it as thou didest caboches.",
+            "If they be in fyssh day, make on the same maner with water and oyle.",
+            "and if it be not in Lent alye it with zolkes of Eyren.",
+            "and dresse it forth and cast ther to powdour douce."
+        ]
+    },
+    {
+        "title": "GOURDES IN POTAGE",
+        "ingredients": {
+            "young Gowrdes": "unknown",
+            "gode broth": "unknown",
+            "Oynouns": "a gode pertye [quantity]",
+            "Pork": "soden [cooked]",
+            "zolkes of ayrenn": "unknown",
+            "safroun": "unknown",
+            "salt": "unknown",
+            "powdour douce": "unknown"
+        },
+        "instructions": [
+            "Take young Gowrdes pare hem and kerue [cut] hem on pecys.",
+            "cast hem in gode broth, and do \u00feer to a gode pertye of Oynouns mynced.",
+            "take Pork soden. grynd it and alye it \u00feer with and wi\u00fe zolkes of ayrenn.",
+            "do \u00feer to safroun and salt, and messe it forth with powdour douce."
+        ]
+    },
+    {
+        "title": "Ryse of Flesh",
+        "ingredients": {
+            "Ryse (Rice)": "unknown amount",
+            "Gode broth": "unknown amount",
+            "Almaund mylke (Almond milk)": "unknown amount",
+            "Safroun (Saffron)": "unknown amount",
+            "Salt": "unknown amount"
+        },
+        "instructions": [
+            "Take Ryse and waishe hem clene. and do hem in erthen pot with gode broth and lat hem see\u00fe wel.",
+            "Afterward take Almaund mylke and do \u00feer to.",
+            "Colour it wi\u00fe safroun an salt, an messe forth."
+        ]
+    },
+    {
+        "title": "Funges (Mushrooms)",
+        "ingredients": {
+            "Funges (Mushrooms)": "unknown amount",
+            "Leke": "unknown amount",
+            "Good broth": "unknown amount",
+            "Saffron for color": "unknown amount",
+            "Powdour fort": "unknown amount"
+        },
+        "instructions": [
+            "Take Funges (Mushrooms) and pare them clear and dice them",
+            "Take leke and shred hm small and do him to see\u00fe in good broth",
+            "Colour it with saffron",
+            "Add powdour fort"
+        ]
+    },
+    {
+        "title": "BURSEN",
+        "ingredients": {
+            "whyte of Lekes": "unknown",
+            "Noumbles of swyne": "unknown",
+            "broth": "unknown",
+            "wyne": "unknown",
+            "brode blode": "unknown",
+            "vynegre": "unknown",
+            "Powdour fort": "unknown",
+            "Oynouns": "unknown",
+            "Pigges": "unknown"
+        },
+        "instructions": [
+            "Take the whyte of Lekes. slype hem and shrede hem small.",
+            "Take Noumbles of swyne and boyle hem in broth and wyne. Take hym up and dresse hem and do the Leke in the broth.",
+            "See\u00fe and do the Noumbles ther to make a Lyour of brode blode and vynegre and do ther to.",
+            "Powdour fort see\u00fe Oynouns mynce hem and do ther to.",
+            "The self wise make of Pigges."
+        ]
+    },
+    {
+        "title": "Corat",
+        "ingredients": {
+            "Noumbles of Calf, Swyne, or of Shepe": "unknown",
+            "gode broth": "unknown",
+            "erbes": "unknown",
+            "chyballes (Chibols, young onions)": "unknown",
+            "zolkes of eyrenn": "unknown",
+            "verious (Verjuice)": "unknown",
+            "safroun powdour douce": "unknown",
+            "salt": "unknown"
+        },
+        "instructions": [
+            "Take the Noumbles of Calf, Swyne, or of Shepe, parboile hem and skerne hem to dyce",
+            "Cast hem in gode broth and do \u00feer to erbes",
+            "Grynde chyballes (young onions), smale y hewe, see\u00fe it tendre and lye it with zolkes of eyrenn",
+            "Do \u00feer to verious (Verjuice), safroun powdour douce and salt",
+            "Serve it forth."
+        ]
+    },
+    {
+        "title": "NOUMBLES. XIII.",
+        "ingredients": {
+            "Noumbles of Deer or other beast": "unknown quantity",
+            "Self broth or better": "unknown quantity",
+            "Bread": "unknown quantity",
+            "Vinegar": "a good quantity",
+            "Wine": "unknown quantity",
+            "Onions": "unknown quantity",
+            "Blood": "for colouring",
+            "Powdour fort": "unknown quantity",
+            "Salt": "to taste"
+        },
+        "instructions": [
+            "Parboil the noumbles of Deer or other beast and cut them into dice.",
+            "Take the self broth or better.",
+            "Grind the bread with the broth and temper it up with a good quantity of vinegar and wine.",
+            "Parboil the onions and mince them small and add to the mixture.",
+            "Colour it with blood and add powdour fort and salt.",
+            "Boil it well and serve it forth."
+        ]
+    },
+    {
+        "title": "ROO [1] BROTH. XIIII.",
+        "ingredients": {
+            "lire of the Deer or of the Roo": "unknown",
+            "water": "half the volume of the soup",
+            "wyne": "half the volume of the soup",
+            "brede": "unknown",
+            "blode": "unknown"
+        },
+        "instructions": [
+            "Take the lire of the Deer or of the Roo and parboil it in small pieces",
+            "Simmer it well half in water and half in wyne",
+            "Take brede and bray it with the self broth",
+            "Draw blode to the broth mixture and let it simmer"
+        ]
+    },
+    {
+        "title": "Nde Chyballes",
+        "ingredients": {
+            "Smale y hewe": "unknown",
+            "Zolkes of eyrenn": "unknown",
+            "Verious": "unknown",
+            "Safroun powdour douce": "unknown",
+            "Salt": "to taste"
+        },
+        "instructions": [
+            "See\u00fe smale y hewe until it is tender and ly it with zolkes of eyrenn",
+            "Add verious, safroun powdour douce, and salt",
+            "Serve it forth."
+        ]
+    },
+    {
+        "title": "NOUMBLES",
+        "ingredients": {
+            "Noumbles of Deer or other meat": "unknown amount",
+            "Self broth or better": "unknown amount",
+            "Bread": "unknown amount",
+            "Vinegar": "a good quantity",
+            "Wine": "unknown amount",
+            "Onions": "unknown amount",
+            "Blood": "unknown amount",
+            "Powder fort": "unknown amount",
+            "Salt": "unknown amount"
+        },
+        "instructions": [
+            "Parboil the noumbles of Deer or other meat and cut them into dice.",
+            "Take the broth, grind the bread with it and temper it with a good quantity of vinegar and some wine.",
+            "Parboil the onions, mince them small and add to the broth.",
+            "Colour it with blood, and add powder fort and salt.",
+            "Boil it well and serve."
+        ]
+    },
+    {
+        "title": "Roo Broth",
+        "ingredients": {
+            "Deer or Roo liver": "unknown",
+            "Water": "half of the required liquid",
+            "Wine": "half of the required liquid",
+            "Bread": "unknown",
+            "Self broth": "unknown",
+            "Blood": "unknown",
+            "Powder fort of Ginger or Cinnamon": "unknown",
+            "Mace": "unknown",
+            "Vinegar": "a large portion",
+            "Raisins of Coraunte": "unknown"
+        },
+        "instructions": [
+            "Take the liver of the Deer or the Roo, parboil it in small pieces.",
+            "Seethe it well half in water and half in wine.",
+            "Take bread and bray it with the self broth and draw blood to it and let it seethe together.",
+            "Add powder fort of ginger or cinnamon, and mace, with a large portion of vinegar with raisins of Coraunte."
+        ]
+    },
+    {
+        "title": "TREDURE [1]. XV.",
+        "ingredients": {
+            "Brede": "unknown",
+            "rawe ayrenn": "unknown",
+            "Safroun": "unknown",
+            "powdour douce": "unknown",
+            "gode broth": "unknown",
+            "verious": "a lytel"
+        },
+        "instructions": [
+            "Take Brede and grate it.",
+            "Make a lyre [2] of rawe ayrenn and do \u00feerto Safroun and powdour douce.",
+            "Lye it up [3] with gode broth.",
+            "Make it as a Cawdel.",
+            "do \u00feerto a lytel verious."
+        ]
+    },
+    {
+        "title": "Monchelet",
+        "ingredients": {
+            "Veel or Moton": "unknown",
+            "Good Broth": "enough to cover the meat",
+            "Herbs": "unknown",
+            "Good Wine": "unknown",
+            "Onions": "a significant amount, minced",
+            "Powdour fort": "unknown",
+            "Saffron": "unknown",
+            "Eggs": "unknown",
+            "Verjuice": "unknown"
+        },
+        "instructions": [
+            "Cut the veel or moton into gobbets",
+            "Cook it in good broth",
+            "Add minced herbs, a significant amount of minced onions, a Powdour fort, saffron, good wine",
+            "Combine it with eggs and verjuice",
+            "Do not allow it to cook further after this step."
+        ]
+    },
+    {
+        "title": "BUKKENADE",
+        "ingredients": {
+            "Hennes, Conynges, Veel or other Flessh": "unknown amount",
+            "Almandes unblaunched": "unknown amount",
+            "broth": "unknown amount",
+            "raysons of Corance": "unknown amount",
+            "sugur": "unknown amount",
+            "Powdour gyngur": "unknown amount",
+            "erbes ystewed in grees": "unknown amount",
+            "Oynouns": "unknown amount",
+            "Salt": "unknown amount",
+            "flour of ryse": "unknown amount",
+            "Safroun": "unknown amount"
+        },
+        "instructions": [
+            "Hewe the chosen meat into gobettes",
+            "Wash the meat",
+            "Grind the blanched almonds",
+            "Draw up the almonds with the broth",
+            "Cast in the raisins of corance, sugar, powdered ginger, stewed herbs in grease, onions, and salt",
+            "If it is too thin, combine it with rice flour or other thickening agent",
+            "Colour it with Safroun"
+        ]
+    },
+    {
+        "title": "Connates",
+        "ingredients": {
+            "Connes": "unknown quantity",
+            "White grece": "unknown quantity",
+            "Honey, clarified": "unknown quantity",
+            "Raw yolks": "unknown quantity",
+            "Almond milk": "a little",
+            "Powdour fort": "unknown quantity",
+            "Saffron": "unknown quantity"
+        },
+        "instructions": [
+            "Take Connes and pare them. Pick out the best and put them in a pot of earth.",
+            "Add white grece so that it stews therein.",
+            "Lie them up with clarified honey and with raw yolks.",
+            "Add a little almond milk and put therein powdour fort and Saffron.",
+            "Ensure that it be yleesshed."
+        ]
+    },
+    {
+        "title": "DREPEE [1]. XIX.",
+        "ingredients": {
+            "Blanched Almandes": "unknown amount",
+            "Gode broth": "unknown amount",
+            "Oynouns": "a grete quantite",
+            "Smale bryddes": "unknown amount",
+            "Pellydore": "unknown amount",
+            "Salt": "unknown amount",
+            "Grece": "a lytel"
+        },
+        "instructions": [
+            "Take blanched Almandes grynde hem and temper hem up with gode broth",
+            "Take Oynouns a grete quantite parboyle hem and frye hem and do \u00feerto.",
+            "Take smale bryddes parboyle hem and do \u00feerto Pellydore and salt. and a lytel grece."
+        ]
+    },
+    {
+        "title": "Mawmenee",
+        "ingredients": {
+            "wyne greke": "a pottel",
+            "sugur": "ii. pounde",
+            "flour of Canell": "unknown amount",
+            "pynes": "unknown amount",
+            "Dates": "unknown amount",
+            "grece or oyle": "unknown amount",
+            "clowes": "unknown amount",
+            "powdour gyngur": "unknown amount",
+            "cane": "unknown amount"
+        },
+        "instructions": [
+            "Take a pottel of wyne greke. and ii. pounde of sugur take and clarifye the sugur with a qantite of wyne an drawe it thurgh a straynour in to a pot of erthe.",
+            "Take flour of Canell and medle with sum of the wyne an cast to gydre.",
+            "Take pynes with Dates and frye hem a litell in grece o\u00feer in oyle and cast hem to gydre.",
+            "Take clowes an flour of canel hool and cast \u00feerto.",
+            "Take powdour gyngur, cane."
+        ]
+    },
+    {
+        "title": "DREPEE",
+        "ingredients": {
+            "Blanched Almandes": "unknown quantity",
+            "Good Broth": "unknown quantity",
+            "Oynouns": "a great quantity",
+            "Small bryddes (Birds)": "unknown quantity",
+            "Pellydore (Perhaps _pellitory_)": "unknown quantity",
+            "Salt": "unknown quantity",
+            "Grece": "a little"
+        },
+        "instructions": [
+            "Take blanched Almandes grynde hem and temper hem up with gode broth",
+            "Take Oynouns a grete quantite parboyle hem and frye hem and do \u00feerto.",
+            "Take smale bryddes parboyle hem and do \u00feerto Pellydore and salt. and a lytel grece."
+        ]
+    },
+    {
+        "title": "Unknown",
+        "ingredients": {
+            "wyne greke": "a pottel",
+            "sugur": "ii. pounde",
+            "flour of Canell [Powder of Cinamon]": "unknown amount",
+            "pynes [A nut, or fruit]": "unknown amount",
+            "Dates": "unknown amount",
+            "grece o\u00feer in oyle": "for frying",
+            "clowes [Cloves]": "unknown amount",
+            "powdour gyngur": "unknown amount",
+            "canel": "unknown amount",
+            "clower": "unknown amount",
+            "saundres": "a lytel",
+            "salt": "unknown amount",
+            "brawn [Fleshy part] of Capouns": "unknown amount",
+            "Fesauntes [presumably fasan, pheasant]": "unknown amount"
+        },
+        "instructions": [
+            "Take a pottel of wyne greke. and ii. pounde of sugur take and clarifye the sugur with a qantite of wyne an drawe it thurgh a straynour in to a pot of erthe",
+            "Take flour of Canell [2]. and medle [mix] with sum of the wyne an cast to gydre.",
+            "Take pynes [nuts] with Dates and frye hem a litell in grece o\u00feer in oyle and cast hem to gydre.",
+            "Take clowes [cloves] an flour of canel hool [whole] and cast \u00feerto.",
+            "Take powdour gyngur, canel, clower, colour it with saundres a lytel yf hit be nede",
+            "Cast salt \u00feerto, and lat it see\u00fe warly [gently] with a slowe fyre and not to thyk [not to thicken].",
+            "Take brawn [fleshy part] of Capouns yteysed [unknown term] o\u00feer [or] of Fesauntes [presumably fasan, pheasant] teysed small and cast \u00feerto."
+        ]
+    },
+    {
+        "title": "EGURDOUCE",
+        "ingredients": {
+            "Conynges or Kydde": "unknown",
+            "white grece": "unknown",
+            "raysouns of Coraunce": "unknown",
+            "oynouns": "unknown",
+            "rede wyne": "unknown",
+            "suger": "unknown",
+            "powdour of peper": "unknown",
+            "gynger": "unknown",
+            "canel": "unknown",
+            "salt": "unknown"
+        },
+        "instructions": [
+            "Take Conynges or Kydde and smyte hem on pecys rawe. and frye hem in white grece.",
+            "Take raysouns of Coraunce and fry hem.",
+            "Take oynouns parboile hem and hewe hem small and fry hem.",
+            "Take rede wyne suger with powdour of peper, of gynger of canel, salt, and cast \u00feerto.",
+            "Let it see\u00fe with a gode quantite of white grece and serue it forth."
+        ]
+    },
+    {
+        "title": "HARES IN TALBOTES",
+        "ingredients": {
+            "Capon": "unknown",
+            "Clean Broth": "unknown",
+            "Bread": "unknown",
+            "Strong Powdour": "unknown",
+            "Saffron": "unknown",
+            "Salt": "unknown",
+            "Hard-boiled Eggs": "unknown",
+            "Cloves": "unknown"
+        },
+        "instructions": [
+            "Take Capons and roast them right hot that they be not half enough and hew them to gobettes and cast them in a pot, add clean broth",
+            "Boil them that they be tender.",
+            "Take bread and the self broth and draw it up together",
+            "Add strong powder, saffron, and salt.",
+            "Hard-boil eggs, take out the yolks and hew the white therein, remove the Pot from the fire and add the whites.",
+            "Prepare the dishes with it and lay the yolks whole and flour it with cloves."
+        ]
+    },
+    {
+        "title": "HARES IN PAPDELE",
+        "ingredients": {
+            "Hares": "unknown",
+            "Broth": "unknown",
+            "Blood": "unknown",
+            "Almaundes unblaunched": "unknown",
+            "Onions": "unknown",
+            "Powdour fort": "unknown",
+            "Vynegur": "unknown",
+            "Salt": "unknown"
+        },
+        "instructions": [
+            "Take Hares and hewe hem to gobettes and see\u00fe hem with \u00fee blode unwaisshed in broth.",
+            "And whan \u00feey buth y nowh: cast hem in colde water. pyke and waisshe hem clene.",
+            "Cole [3] the broth and drawe it thurgh a straynour.",
+            "Take o\u00feer blode and cast in boylyng water see\u00fe it and drawe it thurgh a straynour.",
+            "Take Almaundes unblaunched. waisshe hem and grynde hem and temper it up with the self broth.",
+            "Cast al in a pot.",
+            "Tak oynouns and parboile hem smyte hem small and cast hem in to \u00feis Pot.",
+            "Cast \u00feerinne Powdour fort. vynegur an salt."
+        ]
+    },
+    {
+        "title": "Papdele",
+        "ingredients": {
+            "Hares": "unknown",
+            "gode broth": "unknown",
+            "fleyssh": "unknown",
+            "obleys or wafrouns": "unknown",
+            "powdour douce": "unknown",
+            "salt": "unknown"
+        },
+        "instructions": [
+            "Take Hares parboile hem in gode broth.",
+            "Cole the broth and waisshe the fleyssh.",
+            "Cast azeyn to gydre.",
+            "Take obleys or wafrouns in stede of lozeyns, and cowche in dysshes.",
+            "Take powdour douce and lay on salt the broth and lay onoward an messe forth."
+        ]
+    }
+]

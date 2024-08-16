@@ -1,0 +1,6 @@
+README.md
+setup.py
+soda.egg-info/PKG-INFO
+soda.egg-info/SOURCES.txt
+soda.egg-info/dependency_links.txt
+soda.egg-info/top_level.txt
