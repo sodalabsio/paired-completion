@@ -9,7 +9,7 @@
 ## TL;DR
 Paired completion provides a new way to analyse nuanced issue-framing (e.g. climate science advocacy vs. climate science denialism) without the need for large labelled datasets, leveraging log-probabilities of completions from large language models.
 
-<img src="pc.png" alt="Overview of the paired completion approach" style="max-width:400px; display: block; margin-left: auto; margin-right: auto;">
+<img src="pc.png" alt="Overview of the paired completion approach" width=400 >
 
 # Requirements
 Depending on which experiment you are running, you will need access to valid API keys.
