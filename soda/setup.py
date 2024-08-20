@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+package_data = {'': ['*.py']}
+
 setup(
     name='soda',
     version='0.1',
@@ -15,4 +17,6 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.7',
     ],
+    package_data=package_data,
+    include_package_data=True,
 )

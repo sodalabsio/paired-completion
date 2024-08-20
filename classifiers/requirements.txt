@@ -1,0 +1,8 @@
+scipy
+openai
+tqdm
+dataclasses
+typing
+pandas
+numpy
+PyYAML

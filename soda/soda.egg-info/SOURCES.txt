@@ -1,6 +1,14 @@
+MANIFEST.in
 README.md
 setup.py
+soda/__init__.py
 soda.egg-info/PKG-INFO
 soda.egg-info/SOURCES.txt
 soda.egg-info/dependency_links.txt
 soda.egg-info/top_level.txt
+soda/cache/__init__.py
+soda/cache/cache.py
+soda/openai/__init__.py
+soda/openai/cascade.py
+soda/openai/fine_tune.py
+soda/openai/text.py

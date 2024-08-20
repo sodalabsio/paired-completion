@@ -1,2 +1,4 @@
 openai
 sqlitedict
+joblib
+tqdm
